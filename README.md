@@ -1,10 +1,6 @@
----
-description: Thanks for choosing Bootstrap Themes!
----
-
 # Get Started
 
-
+Thanks for choosing my Bootstrap Themes!
 
 ![](https://github.com/1998code/Bootstrap-Themes/workflows/CI/badge.svg)
 
