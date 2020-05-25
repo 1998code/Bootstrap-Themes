@@ -15,7 +15,7 @@ $ clone https://github.com/1998code/{tag}-Theme.git
 ```
 
 {% hint style="info" %}
- Tag can be found on [https://github.com/1998code?tab=repositories&q=theme&type=&language=](https://github.com/1998code?tab=repositories&q=theme&type=&language=)
+ Themes' Tag can be found on [https://github.com/1998code?tab=repositories&q=theme&type=&language=](https://github.com/1998code?tab=repositories&q=theme&type=&language=)
 {% endhint %}
 
 ![](.gitbook/assets/pluto-sign-up.svg)
