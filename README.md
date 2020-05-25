@@ -6,6 +6,8 @@ description: Thanks for choosing Bootstrap Themes!
 
 
 
+![](https://github.com/1998code/Bootstrap-Themes/workflows/CI/badge.svg)
+
 ![](.gitbook/assets/pluto-welcome.svg)
 
 ## Getting Super Powers of HTML & Bootstrap
