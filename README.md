@@ -2,6 +2,8 @@
 
 Thanks for choosing my Bootstrap Themes!
 
+Documents: https://docs.1998.media/themes
+
 ![](https://github.com/1998code/Bootstrap-Themes/workflows/CI/badge.svg)
 
 ![](.gitbook/assets/pluto-welcome.svg)
@@ -19,4 +21,3 @@ $ clone https://github.com/1998code/{tag}-Theme.git
 {% endhint %}
 
 ![](.gitbook/assets/pluto-sign-up.svg)
-
