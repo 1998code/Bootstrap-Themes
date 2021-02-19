@@ -3,7 +3,7 @@ Open Source Bootstrap Themes for everyone.
 
 Any Contribute is welcome.
 
-![Cover](https://github.com/1998code/Bootstrap-Themes/blob/web/CleanShot%202021-02-20%20at%2003.36.54@2x.png?raw=true)
+![Cover](https://github.com/1998code/Bootstrap-Themes/blob/web/CleanShot%202021-02-20%20at%2003.39.45@2x.png?raw=true)
 
 # Documents
 https://docs.1998.media/themes/
