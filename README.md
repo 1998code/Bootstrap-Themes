@@ -1,7 +1,7 @@
 # Bootstrap-Themes
 Open Source Bootstrap Themes for everyone.
 
-Any Contribute is welcome.
+Any Contribution is welcome.
 
 <a href="https://www.producthunt.com/posts/collection-of-bootstrap-theme-templates?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-collection-of-bootstrap-theme-templates" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=284925&theme=dark" alt="Collection of Bootstrap Theme Templates - Free, Bootstrap, responsive, HTML, templates, themes | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
