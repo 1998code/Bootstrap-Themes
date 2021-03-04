@@ -21,30 +21,6 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.3.1/css/swiper.min.css">
-<!-- The core Firebase JS SDK is always required and must be listed first -->
-<script src="https://www.gstatic.com/firebasejs/8.2.9/firebase-app.js"></script>
-
-<!-- TODO: Add SDKs for Firebase products that you want to use
-     https://firebase.google.com/docs/web/setup#available-libraries -->
-<script src="https://www.gstatic.com/firebasejs/8.2.9/firebase-analytics.js"></script>
-
-<script>
-  // Your web app's Firebase configuration
-  // For Firebase JS SDK v7.20.0 and later, measurementId is optional
-  var firebaseConfig = {
-    apiKey: "AIzaSyCHi5MyU6NzdbDUP1n7r90Jv5lLJWs9NOs",
-    authDomain: "bootstrap-themes-os.firebaseapp.com",
-    databaseURL: "https://bootstrap-themes-os.firebaseio.com",
-    projectId: "bootstrap-themes-os",
-    storageBucket: "bootstrap-themes-os.appspot.com",
-    messagingSenderId: "294013755462",
-    appId: "1:294013755462:web:aed693891914c13e67aa47",
-    measurementId: "G-BBEBGDK3WL"
-  };
-  // Initialize Firebase
-  firebase.initializeApp(firebaseConfig);
-  firebase.analytics();
-</script>
 </head>
 
 <body>
@@ -84,8 +60,8 @@
         <div class="container text-center" style="padding: 30px;">
             <form action="https://themes-search.vercel.app" method="post" target="_blank">
                 <div class="row">
-                    <div class="col-lg-1 col-xxl-2 d-lg-flex justify-content-lg-end align-items-lg-center"><img src="assets/img/search-by-algolia-light-background.svg?h=c363104786e030cb1ee85e923cf22017"></div>
-                    <div class="col"><a href="https://themes-search.vercel.app" style="text-decoration:none" target="_blank"><input class="border rounded-pill form-control form-control-lg" type="search" placeholder="Find themes by keywords..." style="width: 100%;" disabled=""></a></div>
+                    <div class="col-lg-3 col-xxl-2 d-lg-flex justify-content-lg-end align-items-lg-center" style="margin-top: 8px;margin-bottom: 8px;"><img src="assets/img/search-by-algolia-light-background.svg?h=c363104786e030cb1ee85e923cf22017"></div>
+                    <div class="col" style="margin-top: 8px;margin-bottom: 8px;"><a href="https://themes-search.vercel.app" style="text-decoration:none" target="_blank"><input class="border rounded-pill form-control form-control-lg" type="search" placeholder="Find themes by keywords..." style="width: 100%;" disabled=""></a></div>
                 </div>
             </form>
         </div>
@@ -326,7 +302,30 @@
             </ul>
             <p class="copyright" style="margin-bottom: 15px;">Made with&nbsp;♥ from Hong Kong.</p>
         </footer>
-    </div>
+    </div><!-- The core Firebase JS SDK is always required and must be listed first -->
+<script src="https://www.gstatic.com/firebasejs/8.2.9/firebase-app.js"></script>
+
+<!-- TODO: Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#available-libraries -->
+<script src="https://www.gstatic.com/firebasejs/8.2.9/firebase-analytics.js"></script>
+
+<script>
+  // Your web app's Firebase configuration
+  // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+  var firebaseConfig = {
+    apiKey: "AIzaSyCHi5MyU6NzdbDUP1n7r90Jv5lLJWs9NOs",
+    authDomain: "bootstrap-themes-os.firebaseapp.com",
+    databaseURL: "https://bootstrap-themes-os.firebaseio.com",
+    projectId: "bootstrap-themes-os",
+    storageBucket: "bootstrap-themes-os.appspot.com",
+    messagingSenderId: "294013755462",
+    appId: "1:294013755462:web:aed693891914c13e67aa47",
+    measurementId: "G-BBEBGDK3WL"
+  };
+  // Initialize Firebase
+  firebase.initializeApp(firebaseConfig);
+  firebase.analytics();
+</script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.0.0-beta2/js/bootstrap.bundle.min.js"></script>
     <script src="assets/js/smart-forms.min.js?h=44755786fa0e35e8c5c3adb9b8c60478"></script>
